@@ -1,11 +1,6 @@
-﻿using Microsoft.Extensions.Options;
-using Safetica.Business.Interface;
-using Safetica.Entities;
+﻿using Safetica.Business.Interface;
 using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Safetica.PropertiesFileEditor
 {

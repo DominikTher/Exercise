@@ -1,8 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
 using Safetica.Business.Interface;
 using Safetica.Entities;
-using System;
-using System.Collections.Generic;
 using System.Text;
 
 namespace Safetica.Business

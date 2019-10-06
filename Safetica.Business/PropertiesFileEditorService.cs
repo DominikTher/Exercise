@@ -1,10 +1,8 @@
 ﻿using Microsoft.Extensions.Options;
 using Safetica.Business.Interface;
 using Safetica.Entities;
-using System;
 using System.IO;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Safetica.Business
 {
